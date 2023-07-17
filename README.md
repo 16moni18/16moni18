@@ -5,8 +5,8 @@ Hello my name is MONI, or you can know me as DEMO. I am a beginner C# Coder. I a
 # Project
 [![C#](https://img.shields.io/badge/-DarkSide-090909?style=for-the-badge&logo=Discord)](https://discord.gg/6EqJgasQ)
 # Languages
-![C#](https://img.shields.io/badge/-Sharp-090909?style=for-the-badge&logo=C)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
-![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=Html)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS)
+[![C#](https://img.shields.io/badge/-Sharp-090909?style=for-the-badge&logo=C)](https://ru.wikipedia.org/wiki/C_Sharp)
+[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)](https://ru.wikipedia.org/wiki/Python)
+[![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=Html)](https://ru.wikipedia.org/wiki/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS)](https://ru.wikipedia.org/wiki/CSS)
 
